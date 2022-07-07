@@ -1,4 +1,4 @@
-# ducngtrung.github.io
+# ducngtrung-javafullstack.github.io
 
 # 06/07/2022
 - Learn Git, GitHub
