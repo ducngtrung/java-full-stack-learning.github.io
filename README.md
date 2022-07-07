@@ -1,4 +1,4 @@
-# ducngtrung-javafullstack.github.io
+# https://ducngtrung.github.io/java-full-stack-learning.github.io/
 
 # 06/07/2022
 - Learn Git, GitHub
