@@ -24,9 +24,6 @@ body {
 #categories {
   margin-bottom: 15px;
 }
-.content {
-  margin-bottom: 20px;
-}
 .tag {
   background-color: #e5e5e5;
   color: gray;
@@ -38,14 +35,17 @@ body {
   text-align: center;
   padding: 4px;
 }
-.separator {
-  background-color: #e5e5e5;
-  height: 1px;
-}
 blockquote {
   color: #57606a;
   padding: 0 10px;
   border-left: 4px solid #d0d7de;
+}
+.separator {
+  background-color: #e5e5e5;
+  height: 1px;
+}
+.content {
+  margin-bottom: 20px;
 }
 h2 {
   margin-top: 30px;
