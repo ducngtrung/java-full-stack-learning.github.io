@@ -35,5 +35,9 @@ public class Hello_World {
         double doubleVal = 1.7;
         int intVal = (int)doubleVal;
         System.out.println(intVal);
+
+        // Khai báo hằng số
+        final float piNumber = 3.14f;
+        System.out.println(piNumber);
     }
 }
