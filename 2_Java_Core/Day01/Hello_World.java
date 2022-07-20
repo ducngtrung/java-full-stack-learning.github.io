@@ -3,9 +3,9 @@ package Day01;
 public class Hello_World {
     static int globalVal = 3;
     public static void main(String[] args) {
-        // System.out.println("Hello World!");
-        // System.out.print("Hello ");
-        // System.out.println("Test");
+        System.out.println("Hello World!");
+        System.out.print("Hello ");
+        System.out.println("Test");
 
         int intNumber = 4;
         long longNumber = 100L;
@@ -39,5 +39,12 @@ public class Hello_World {
         // Khai báo hằng số
         final float piNumber = 3.14f;
         System.out.println(piNumber);
+
+        boolean result = (doubleVal == intVal);
+        System.out.println(result);
+        System.out.println(doubleVal > intVal);
+
+        boolean andResult = (100 > 40) && (10 > 30) || (10 > 5);
+        System.out.println(andResult);
     }
 }
