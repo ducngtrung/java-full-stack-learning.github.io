@@ -1,4 +1,4 @@
-package Day01;
+package Day01_Variables_DataTypes;
 
 public class Hello_World {
     static int globalVal = 3;
